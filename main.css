@@ -131,6 +131,9 @@ li, a {
         height: auto;
         padding: 10px; /* Dopasowanie rozmiaru przycisków */
     }
+	   #right2{
+        margin-top: 50px;
+    }
 }
 
 @media (max-width: 480px) {
