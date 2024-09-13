@@ -10,7 +10,8 @@
 	box-sizing: border-box;
 	border-top-right-radius: 30px;
 	border-bottom-right-radius: 30px;
-	box-shadow: 100px 100px 100px #da71b7 , 100px -100px 100px #da71b7
+	box-shadow: 100px 100px 100px #da71b7 , 100px -100px 100px #da71b7;
+	heiht: auto;
 	
 }
 
@@ -21,7 +22,8 @@
 	box-sizing: border-box;
 	border-top-right-radius: 30px;
 	border-bottom-right-radius: 30px;
-	box-shadow: 100px 100px 100px #b3ff66 , 100px -100px 100px #b3ff66
+	box-shadow: 100px 100px 100px #b3ff66 , 100px -100px 100px #b3ff66;
+	heiht: auto;
 }
 #right2{
 	padding: 25px;
