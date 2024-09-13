@@ -1,0 +1,104 @@
+#container {
+	display: flex;
+	height: 100vh;
+}
+
+#left {
+	flex: 1;
+	background-color: #b3ff66;
+	padding: 20px;
+	box-sizing: border-box;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	box-shadow: 100px 100px 100px #da71b7 , 100px -100px 100px #da71b7
+	
+}
+
+#right {
+	flex: 3;
+	background-color: #da71b7 ;
+	padding: 20px;
+	box-sizing: border-box;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	box-shadow: 100px 100px 100px #b3ff66 , 100px -100px 100px #b3ff66
+}
+#right2{
+	padding: 25px;
+	border-radius: 30px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+#lewa {
+	max-width: 500px;
+	margin: 0 auto;
+	background-color: #b3ff66;
+	padding: 25px;
+	border-radius: 30px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+	size: 50px;
+	font-size: larger;
+}
+p {
+	font-size: larger;
+}
+h2 {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 200px;
+}
+h3 {
+	text-align: center;
+	font-size: 50px;
+}
+button {
+	font-size: larger;
+	margin-top: 25px;
+	padding: 5px;
+	width: 200px;
+	height: 50px;
+	background-color: #e67300;
+	font-weight: bold;
+	border-radius: 30px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border: none;
+}
+
+li, a{
+  color: #ff66b3;
+}
+
+#Spis_treści {
+	max-width: 500px;
+	margin: 0 auto;
+	background-color: #b3ff66;
+	padding: 25px;
+	border-radius: 30px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+	size: 50px;
+	font-size: larger;
+	margin-top: 15%;
+}
