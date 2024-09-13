@@ -32,7 +32,6 @@
     padding: 25px;
     border-radius: 30px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
-	margin-top: 50px;
 }
 
 body {
@@ -131,6 +130,9 @@ li, a {
         width: 50px;
         height: auto;
         padding: 10px; /* Dopasowanie rozmiaru przycisków */
+    }
+    #right2{
+        margin-top: 50px;
     }
 }
 
